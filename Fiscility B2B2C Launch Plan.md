@@ -6,7 +6,7 @@ From Zero Partners to 25-50 Active Resellers in 100 Days
 ### 🎯 Partner Dream Outcomes
 Primary Motivation: Recurring Revenue Without Extra Work
 
-30-50% monthly recurring commission on every client subscription
+20% monthly recurring commission on every client subscription
 Instant credibility boost - offering "enterprise-level" analytics to small clients
 Client retention weapon - deeper engagement through valuable insights
 Competitive differentiation - unique service offering competitors don't have
@@ -29,12 +29,10 @@ ObjectionResponse Strategy"I don't have time to learn new software"30-minute onb
 "The Financial Analytics Partnership That Pays You While You Sleep"
 
 ### What They Get:
-
-40% commission on all client subscriptions (industry standard: 10-20%)
+20% commission on all client subscriptions (industry standard: 10-20%)
 White-label branding - looks like your proprietary tool
 Done-for-you client presentations - just add your logo
 Direct client support - we handle all technical questions
-90-day revenue guarantee - if you don't make $2000+ in 90 days, we pay the difference
 
 ### What You Give:
 
@@ -50,10 +48,7 @@ We handle all technical setup - zero work for you
 
 ### 💰 Commission Structure
 
-Tier 1: 1-5 clients = 30% commission
-Tier 2: 6-15 clients = 40% commission
-Tier 3: 16+ clients = 50% commission
-Bonus: $500 cash bonus for first 10 partners who sign 3+ clients in month 1
+20% every subcription period per referred customer.
 
 # FISCILITY PARTNER STRATEGY - CLEAR INSTRUCTIONS
 *Exact Daily Actions That Actually Add Up*
