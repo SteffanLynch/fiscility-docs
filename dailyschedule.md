@@ -1,291 +1,187 @@
-# YOU'RE ABSOLUTELY RIGHT
+# FISCILITY WEEKLY SCHEDULE - REVISED
 
-**I completely misjudged the stage you're at.**
+## **MONDAY - B2C OUTREACH**
 
-For a **brand new, pre-revenue product**, you need **80%+ of your time on revenue-generating activities**.
+**Focus:** Find high-performing professionals/freelancers who need Fiscility
 
-Let me rebuild this for your actual situation:
+**Tasks:**
+1. Research target B2C users (freelancers, consultants, contractors, solopreneurs on LinkedIn)
+2. Find 50-100 prospects who match ICP (income level, pain points, industry)
+3. Add leads to Smartlead/CRM
+4. Write/customize cold email sequences for B2C users
+5. Send 50-100 personalized cold emails
+6. Send 20-30 LinkedIn connection requests to target users
+7. Send personalized LinkedIn DMs to accepted connections
+8. Engage with target users' posts (thoughtful comments to build awareness)
+9. Follow up with previous B2C outreach leads who opened but didn't reply
+10. Schedule demo/onboarding calls with interested users
 
----
-
-## **REALITY CHECK - YOUR CURRENT STAGE**
-
-**What matters RIGHT NOW:**
-1. ✅ Get paying customers (validate product-market fit)
-2. ✅ Generate revenue (prove business viability)
-3. ✅ Build distribution channels (traffic, partners, awareness)
-4. ❌ ~~Perfect the product~~ (only fix critical bugs)
-5. ❌ ~~Content strategy~~ (only if directly converts)
-6. ❌ ~~Long-term planning~~ (survive first, optimize later)
-
-**The brutal truth:** At your stage, if you're not getting customers, nothing else matters.
+**Output:** 50-100 new B2C prospects contacted, conversations started
 
 ---
 
-## **REVISED WEEKLY SCHEDULE - EARLY STAGE FOCUS**
+## **TUESDAY - B2C ORGANIC ACQUISITION**
 
-| Day | Primary Focus | Secondary Focus | Reality Check |
-|-----|---------------|-----------------|---------------|
-| **Monday** | **B2C Marketing & User Acquisition** | Landing page optimization, ads | Get eyeballs, get signups |
-| **Tuesday** | **B2C Marketing & User Acquisition** | Content that converts, SEO | More eyeballs, more signups |
-| **Wednesday** | **B2B Outreach (Affiliates)** | Cold email, LinkedIn, letters | Build distribution engine |
-| **Thursday** | **B2B Outreach (Financial Service Providers)** | Cold outreach, partnership calls | High-value partnerships |
-| **Friday** | **Sales & Conversion** | Follow-ups, close trials, demos | Turn interest into revenue |
-| **Saturday** | **Product Development** | Critical bugs, user feedback only | Keep product functional |
-| **Sunday** | **Admin + Light Planning** | Finances, metrics, next week prep | Minimal housekeeping |
+**Focus:** Get users through content and organic channels
 
----
+**Tasks:**
+1. Write 1 SEO blog post ("Best [competitor] alternative", "How to [solve problem]")
+2. Optimize existing blog posts for SEO (keywords, internal links)
+3. Create 2-3 LinkedIn posts (finance tips, founder journey, product updates)
+4. Create 2-3 Twitter/X threads
+5. Post valuable advice in Reddit (r/personalfinance, r/entrepreneur, r/smallbusiness)
+6. Post in IndieHackers, Hacker News (if appropriate), Facebook groups
+7. Create short-form video (TikTok, Instagram Reels, YouTube Shorts) if comfortable
+8. Email 5-10 finance newsletters/blogs pitching guest post or product feature
+9. Reach out to 5-10 micro-influencers in personal finance space
+10. Engage authentically in communities (reply to comments, answer questions)
 
-## **DETAILED BREAKDOWN - GROWTH STAGE**
-
-### **MONDAY - B2C Marketing & User Acquisition**
-
-**Primary Theme:** Get people to know Fiscility exists and sign up
-
-**What this includes:**
-- Set up/optimize paid ad campaigns (Google, Meta, TikTok)
-- A/B test landing pages
-- Optimize signup flow (reduce friction)
-- Set up email capture (lead magnets if needed)
-- Social media posting (organic reach)
-- Post in relevant communities (Reddit, forums, Facebook groups)
-- Reach out to micro-influencers
-- Run growth experiments
-
-**Output:** New traffic sources activated, signups increasing
-
-**Key Metric:** Signups per day
-
-**Time Split:** 6-7 hours on acquisition, 1 hour on analytics
+**Output:** Content published, organic traffic channels activated
 
 ---
 
-### **TUESDAY - B2C Marketing & User Acquisition (Continued)**
+## **WEDNESDAY - B2B AFFILIATE OUTREACH**
 
-**Primary Theme:** More user acquisition, content that converts
+**Focus:** Find and contact people who can send you customers
 
-**What this includes:**
-- Write high-intent content (solves urgent problems, ranks fast)
-  - "Best budget app for [specific use case]"
-  - "How to track expenses in [specific situation]"
-  - Comparison posts "[Competitor] alternative"
-- Create quick-win social content (tips, reels, threads)
-- Engage in online communities (provide value, soft promote)
-- Email outreach to relevant newsletters/blogs (guest posts, features)
-- Build landing pages for specific use cases
-- Set up referral program mechanics
-
-**Output:** Content published, more traffic channels opened
-
-**Key Metric:** Organic traffic growth, social engagement
-
-**Time Split:** 5-6 hours on content/outreach, 1-2 hours on social/community
-
----
-
-### **WEDNESDAY - B2B Outreach (Affiliates)**
-
-**Primary Theme:** Find people who can send you customers
-
-**What this includes:**
-- Research potential affiliates (finance YouTubers, bloggers, newsletter writers, podcasters)
-- Cold email batches (50-100 per day)
-- LinkedIn outreach to content creators
-- Prepare physical letters (if sending this week)
-- Follow up with warm affiliate leads
-- Affiliate partnership calls (if booked)
-- Set up affiliate tracking system
-- Create affiliate marketing assets (if needed for active partners)
+**Tasks:**
+1. Research 50-100 potential affiliates (finance YouTubers, bloggers, podcasters, newsletter writers)
+2. Find their email addresses (Hunter.io, LinkedIn, website contact)
+3. Add leads to Smartlead/CRM
+4. Write/customize cold email sequences
+5. Send 50-100 cold emails via Smartlead
+6. Send 20-30 LinkedIn connection requests to content creators
+7. Send personalized LinkedIn DMs to accepted connections
+8. Follow up with anyone who replied to previous emails
+9. Schedule 15-min intro calls with interested affiliates
+10. Conduct affiliate intro calls (if scheduled)
 
 **Output:** 50-100 new affiliate prospects contacted, conversations started
 
-**Key Metric:** Outreach volume, responses, partnership calls booked
-
-**Time Split:** 6-7 hours on outreach and follow-ups
-
 ---
 
-### **THURSDAY - B2B Outreach (Financial Service Providers)**
+## **THURSDAY - B2B PARTNER OUTREACH**
 
-**Primary Theme:** Land high-value strategic partners
+**Focus:** Find and contact financial service providers
 
-**What this includes:**
-- Research target financial service providers (CPAs, fractional CFOs, advisors)
-- Cold email batches (30-50 per day - more targeted than affiliates)
-- Send physical letters (batch and mail)
-- LinkedIn outreach (connection requests, thoughtful DMs)
-- Cold calls (if comfortable)
-- Partnership discovery calls (scheduled from previous outreach)
-- Follow up with warm partnership leads
-- Prepare partnership proposals/decks
+**Tasks:**
+1. Research 30-50 financial service providers (CPAs, fractional CFOs, advisors, consultants)
+2. Find their contact info (LinkedIn, company websites)
+3. Add leads to CRM
+4. Write/customize cold email sequences for FSPs
+5. Send 30-50 cold emails via Smartlead
+6. Prepare and mail 5-10 physical letters (if doing letter campaigns)
+7. Send 10-20 LinkedIn connection requests to FSPs
+8. Send personalized LinkedIn DMs to accepted connections
+9. Follow up with previous FSP leads who opened but didn't reply
+10. Conduct 20-30 min partnership discovery calls (if scheduled)
+11. Send partnership decks/proposals after calls
 
 **Output:** 30-50 new partner prospects contacted, calls scheduled/completed
 
-**Key Metric:** Partnership calls booked, deals in pipeline
+---
 
-**Time Split:** 6-7 hours on outreach, calls, and follow-ups
+## **FRIDAY - CONVERSION & CLOSING**
+
+**Focus:** Turn all activity into paying customers and signed partners
+
+**Tasks:**
+1. Email all B2C trial users who signed up this week (check-in, offer help)
+2. Email trial users nearing expiration (3 days left, last day warnings)
+3. Send upgrade discount codes to hesitant users
+4. Reply to all pricing questions and objections from B2C users
+5. Conduct demo calls with high-value B2C prospects (if scheduled)
+6. Follow up with B2C outreach leads from Monday (who opened but didn't reply)
+7. Follow up with affiliate leads from Wednesday (who opened but didn't reply)
+8. Follow up with partner leads from Thursday (who opened but didn't reply)
+9. Send partnership agreements to ready FSPs
+10. Send affiliate agreements to interested content creators
+11. Onboard new paying customers (welcome email, setup assistance)
+12. Onboard new affiliates (tracking links, marketing assets, guidelines)
+13. Onboard new partners (materials, training)
+14. Review conversion funnel (where are B2C signups dropping off?)
+15. Make quick fixes to remove conversion blockers
+
+**Output:** Trials converted to paid, partnerships signed, affiliates activated, revenue generated
 
 ---
 
-### **FRIDAY - Sales & Conversion**
+## **SATURDAY - PRODUCT, METRICS & PAID ADS**
 
-**Primary Theme:** Turn all the week's activity into revenue
+**Focus:** Keep product working, learn from data, and optimize paid channels
 
-**What this includes:**
-- Follow up with trial users (push for conversion)
-- Email/call users nearing trial end
-- Send upgrade offers/discount codes
-- Handle inbound questions about pricing
-- Demo calls with interested users (if high-value)
-- Close partnership agreements (send contracts, onboard)
-- Activate new affiliates/partners (send links, assets, training)
-- Follow up with everyone you talked to this week
-- Review conversion funnel (where are people dropping off?)
-- Quick fixes to remove conversion blockers
+**Tasks:**
+1. Test full user journey end-to-end (signup → onboarding → core features)
+2. Fix critical bugs (broken signup, payment errors, app crashes)
+3. Review all user feedback from the week
+4. Make ONE high-impact UX improvement (biggest conversion blocker)
+5. Update onboarding emails if users are confused or dropping off
+6. **Review paid ad performance (if running any campaigns)**
+7. **Adjust ad budgets, pause/scale campaigns based on ROI**
+8. **Set up new small-budget ad tests if appropriate**
+9. Review week's metrics:
+   - B2C signups (total and by source)
+   - Trial-to-paid conversion rate
+   - B2B outreach (sent, replies, calls)
+   - Partnerships signed
+   - MRR added
+   - Churn rate
+   - CAC and LTV (if applicable)
+10. Document what worked and what didn't
+11. Brainstorm 2-3 experiments for next week
 
-**Output:** Deals closed, partners activated, revenue generated
-
-**Key Metric:** MRR added, partnerships signed
-
-**Time Split:** 5-6 hours on conversion activities, 1-2 hours on funnel optimization
-
----
-
-### **SATURDAY - Product Development**
-
-**Primary Theme:** Keep the product working and usable
-
-**What this includes:**
-- Fix critical bugs only (things blocking signups or usage)
-- Review user feedback from the week
-- Make high-impact improvements (biggest conversion blockers)
-- Basic QA testing
-- Improve onboarding if people are dropping off
-- Add features ONLY if they're repeatedly requested AND simple
-
-**What NOT to do:**
-- ❌ Build new features "because they'd be cool"
-- ❌ Perfect the UI
-- ❌ Refactor code for cleanliness
-- ❌ Build features no one asked for
-
-**Output:** Product remains functional, critical issues resolved
-
-**Key Metric:** Product uptime, critical bugs = 0
-
-**Time Split:** 3-5 hours (or less if nothing broken)
-
-**Reality:** If product is stable, spend MORE time on revenue activities
+**Output:** Product functional, metrics reviewed, paid ads optimized (if running)
 
 ---
 
-### **SUNDAY - Admin & Planning**
+## **SUNDAY - ADMIN, PREP & PAID ADS SETUP**
 
-**Primary Theme:** Light housekeeping and prep
+**Focus:** Clean systems, prepare for next week, set up paid campaigns
 
-**What this includes:**
-- Review week's metrics (signups, revenue, outreach volume)
-- Basic bookkeeping (log expenses)
-- Plan next week's targets (outreach lists, content topics, experiments)
-- Inbox management
-- Tool maintenance (if needed)
-- Mental reset
+**Tasks:**
+1. Achieve inbox zero
+2. Clean up Smartlead campaigns (pause non-performers)
+3. Update CRM with latest lead statuses
+4. Log expenses in bookkeeping software
+5. Review bank accounts and runway
+6. **Set up paid ad campaigns for the week (if budget allows)**
+7. **Create ad copy and creative for new campaigns**
+8. **Research new ad targeting options**
+9. Prep B2C outreach list for Monday (research, build list of professionals/freelancers)
+10. Prep affiliate outreach list for Wednesday (research, build list)
+11. Prep partner outreach list for Thursday (research, build list)
+12. Plan content topics for Tuesday
+13. Set top 3 goals for next week
+14. Organize notes and ideas
 
-**What NOT to do:**
-- ❌ Deep strategic planning sessions
-- ❌ Long-term roadmapping
-- ❌ Major system overhauls
-
-**Output:** Numbers reviewed, next week planned
-
-**Time Split:** 2-3 hours MAX
-
----
-
-## **WEEKLY TIME ALLOCATION - ACTUAL HOURS**
-
-Based on 50-60 hour work week (startup reality):
-
-| Activity | Days | Hours/Week | % of Time |
-|----------|------|------------|-----------|
-| **B2C Marketing/Acquisition** | Mon, Tue | 12-14 | ~25% |
-| **B2B Outreach (Affiliates)** | Wed | 6-7 | ~12% |
-| **B2B Outreach (FSPs)** | Thu | 6-7 | ~12% |
-| **Sales & Conversion** | Fri | 5-6 | ~10% |
-| **Product Development** | Sat | 3-5 | ~7% |
-| **Admin/Planning** | Sun | 2-3 | ~5% |
-| **Daily essentials** | All days | ~15 | ~29% |
-
-**Daily essentials** = Email, support, urgent issues, meetings, etc.
-
-**Total revenue-generating activities: ~70-75% of your time**
+**Output:** Systems clean, lists ready, paid ads queued (if doing them), goals clear
 
 ---
 
-## **CRITICAL MINDSET SHIFTS**
+## **REVISED WEEKLY BREAKDOWN**
 
-### **BEFORE (My Wrong Advice):**
-- Monday: Build product → ❌ **Wrong priority**
-- Tuesday: Create content → ❌ **Only if it converts NOW**
-- Saturday: Research & strategy → ❌ **Luxury you can't afford**
-
-### **AFTER (Correct for Your Stage):**
-- Mon-Tue: Get customers → ✅ **This is life or death**
-- Wed-Thu: Get partners → ✅ **Build distribution**
-- Friday: Get money → ✅ **Validate everything**
-- Saturday: Fix what's broken → ✅ **Keep doors open**
-- Sunday: Survive another week → ✅ **Minimal overhead**
+| Day | Focus | Activities |
+|-----|-------|------------|
+| **Monday** | **B2C Outreach** | Cold email/LinkedIn to professionals & freelancers |
+| **Tuesday** | **B2C Organic Acquisition** | Content, SEO, communities, influencers |
+| **Wednesday** | **B2B Affiliate Outreach** | Cold email, LinkedIn, calls with content creators |
+| **Thursday** | **B2B Partner Outreach** | Cold email, LinkedIn, calls with FSPs |
+| **Friday** | **Conversion (All Channels)** | Close trials, sign partnerships, activate everyone |
+| **Saturday** | **Product, Data & Ads** | Fix bugs, review metrics, optimize paid ads |
+| **Sunday** | **Admin, Prep & Ad Setup** | Clean systems, prep lists, set up ads for week |
 
 ---
 
-## **WHAT CHANGES AS YOU GROW**
-
-**Current Stage (Now - First $5K MRR):**
-- 75% revenue generation
-- 10% product maintenance
-- 10% operations
-- 5% planning
-
-**Growth Stage ($5K - $25K MRR):**
-- 60% revenue generation
-- 20% product development
-- 15% operations/team
-- 5% strategy
-
-**Scale Stage ($25K+ MRR):**
-- 40% revenue generation (delegated)
-- 30% product/team
-- 20% operations/hiring
-- 10% strategy
-
-**You're in the SURVIVAL stage. Act like it.**
-
----
-
-## **THE BRUTAL WEEKLY CHECKLIST**
-
-Every Sunday, ask yourself:
-
-- [ ] Did I talk to at least 100 potential customers/partners this week?
-- [ ] Did I close at least 1 paying customer or partnership?
-- [ ] Did I increase signups from last week?
-- [ ] Is the product still working?
-- [ ] Am I one week closer to revenue or one week closer to failure?
-
-**If you can't answer YES to most of these, the schedule isn't working.**
-
----
-
-## **VISUAL SUMMARY (NEW)**
+## **VISUAL SUMMARY**
 
 ```
-MON: Get users (B2C marketing)
-TUE: Get users (more B2C marketing)  
-WED: Get affiliates (outbound)
-THU: Get partners (outbound)
-FRI: Get money (close deals)
-SAT: Fix what's broken (product)
-SUN: Count what matters (admin)
+MON → Get B2C users (outreach to professionals)
+TUE → Get B2C users (organic content)
+WED → Get affiliates (outreach)
+THU → Get partners (outreach)
+FRI → Get money (close everything)
+SAT → Fix, measure & optimize ads
+SUN → Prep, admin & queue ads
 ```
 
 ---
@@ -305,4 +201,10 @@ Everything else is a distraction dressed up as "important work."
 
 ---
 
-**Does THIS schedule match the reality of where Fiscility is right now?**
+## **KEY CHANGES:**
+- ✅ Monday is now B2C outreach (not paid ads)
+- ✅ Paid ads moved to Saturday (optimization) and Sunday (setup)
+- ✅ Paid ads are secondary tasks, not primary focus
+- ✅ B2C outreach gets full day of attention like B2B does
+
+**Does this work better for your current capital situation?**
