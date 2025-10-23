@@ -1,0 +1,239 @@
+category,platform_name,function,purpose,description,priority,cost
+Hosting & Infrastructure,Vercel,Web Hosting,Host and deploy web application,Deploys Next.js apps with zero config. Automatic SSL CDN global edge network. Instant rollbacks and preview deployments for every git push.,MUST HAVE,Free - $20/mo
+Hosting & Infrastructure,Railway,Backend Hosting,Host backend services and databases,Alternative to Vercel for full-stack apps. Deploy Docker containers Postgres Redis with simple config. Usage-based pricing.,SHOULD HAVE,$5 - $50/mo
+Hosting & Infrastructure,Supabase,Database + Auth + Storage,All-in-one backend platform,Postgres database with instant APIs. Built-in authentication file storage and realtime subscriptions. Alternative to Firebase.,MUST HAVE,Free - $25/mo
+Hosting & Infrastructure,Cloudflare,CDN & DNS & Security,Protect and accelerate website,Global CDN for fast content delivery. DDoS protection free SSL certificates and DNS management. Analytics included.,MUST HAVE,Free - $20/mo
+Hosting & Infrastructure,Render,Hosting Alternative,Deploy web services,Easy deployment platform. Free tier available. Auto-deploy from Git. Good alternative to Vercel/Railway.,ALTERNATIVE,Free - $25/mo
+Hosting & Infrastructure,Fly.io,Global Hosting,Deploy apps globally,Deploy apps close to users. Global distribution edge computing. Good for low-latency.,ALTERNATIVE,$0 - $50+/mo
+Hosting & Infrastructure,Domain Registration,Domain Name,Purchase fiscility.com domain,Register and manage your domain name. Annual renewal required. Recommend Namecheap or Cloudflare.,MUST HAVE,$10 - $15/yr
+Core Functionality,Plaid,Bank Data Integration,Connect users' bank accounts,API to securely connect to 12000+ banks. Pull transaction data account balances and identity verification. Essential for fintech.,MUST HAVE,Free 100 items then $0.05-$0.30 per user/mo
+Core Functionality,Teller,Alternative Bank API,Alternative to Plaid,Cheaper per-transaction bank connection API. Better for high-volume use cases. Modern developer experience.,ALTERNATIVE,$0.01-$0.10 per transaction
+Core Functionality,Stripe,Payment Processing,Accept subscription payments,Process credit cards subscriptions and one-time payments. Handles billing invoicing and tax calculation. Industry standard.,MUST HAVE,2.9% + $0.30 per transaction
+Core Functionality,Clerk,Authentication,User login and security,Handles user authentication with email social login and MFA. Beautiful pre-built UI components. Webhooks for user events.,MUST HAVE,Free 10k MAU then $25/mo
+Core Functionality,Auth0,Authentication Alternative,Enterprise auth solution,More enterprise features than Clerk. SSO SAML custom domains. More complex setup.,ALTERNATIVE,$23 - $1400+/mo
+Core Functionality,Resend,Transactional Email,Send automated emails,Modern email API for transactional emails. Password resets alerts and notifications. React email templates built-in.,MUST HAVE,Free 3k/mo then $20/mo
+Monitoring & Security,Sentry,Error Tracking,Catch bugs and errors,Captures and reports errors in real-time. Stack traces user context and release tracking. Essential for debugging production.,MUST HAVE,Free 5k errors/mo then $26/mo
+Monitoring & Security,UptimeRobot,Uptime Monitoring,Alert when site goes down,Monitors website uptime every 5 minutes. Email SMS and Slack alerts when downtime detected. Free for 50 monitors.,MUST HAVE,Free - $7/mo
+Monitoring & Security,BetterStack,Status & Uptime,Modern uptime monitoring,Beautiful uptime monitoring and status pages. Incident management on-call scheduling. Clean modern UI.,ALTERNATIVE,Free - $20+/mo
+Monitoring & Security,Vercel Analytics,Performance Monitoring,Track site speed and vitals,Built-in Web Vitals tracking. Shows page load times FCP LCP CLS. Integrated with Vercel hosting.,MUST HAVE,Free with Vercel
+Monitoring & Security,Cloudflare Web Analytics,Privacy Analytics,Track visitors without cookies,Privacy-first web analytics. No cookies or personal data collection. GDPR compliant by default.,NICE TO HAVE,Free
+Monitoring & Security,Snyk,Security Scanning,Find vulnerabilities in dependencies,Scans for security vulnerabilities in npm packages. CI integration automated fixes. Prevents security issues.,SHOULD HAVE,Free - $20/user/mo
+Monitoring & Security,Lighthouse,Performance Auditing,Audit site speed and SEO,Built into Chrome DevTools. Audit performance accessibility SEO. Run locally or in CI.,SHOULD HAVE,Free
+Analytics & Insights,PostHog,Product Analytics,Track user behavior and features,All-in-one product analytics. Feature flags session recordings A/B testing user surveys. Self-hostable.,MUST HAVE,Free 1M events/mo then usage-based
+Analytics & Insights,Google Analytics,Web Analytics,Track website traffic,Industry standard web analytics. Traffic sources page views user demographics. Free but not privacy-focused.,SHOULD HAVE,Free
+Analytics & Insights,Plausible,Privacy Web Analytics,GDPR-compliant analytics,Lightweight privacy-focused analytics. No cookies simple dashboard under 1KB script. Shows key metrics only.,SHOULD HAVE,$9 - $69/mo
+Analytics & Insights,Mixpanel,Advanced Product Analytics,Cohort and funnel analysis,Deep user behavior analytics. Advanced segmentation cohort analysis retention reports. More powerful than PostHog.,NICE TO HAVE,Free 20M events/yr then $25+/mo
+Analytics & Insights,Amplitude,Product Analytics Alternative,Behavioral analytics at scale,Advanced product analytics. User journeys experimentation data warehouse integrations. Enterprise-focused.,NICE TO HAVE,$50 - $2000+/mo
+Analytics & Insights,Google Tag Manager,Tag Management,Centralize tracking pixels,Manage all marketing tags in one place. Google Ads Facebook Pixel LinkedIn tags. Version control.,MUST HAVE,Free
+Customer Support,Plain,Support Platform,Manage customer support tickets,Modern support inbox with ticket management. Linear integration live chat and email. Clean API-first design.,SHOULD HAVE,$29/mo per seat
+Customer Support,Crisp,Live Chat,Real-time chat with customers,Live chat widget for website. Shared inbox chatbot capabilities and knowledge base. Unlimited free tier available.,SHOULD HAVE,Free - $25/mo
+Customer Support,Zendesk,Enterprise Support,Full support suite,Enterprise-grade support ticketing. Help center chat voice knowledge base. More features but expensive.,ALTERNATIVE,$39 - $199+/agent/mo
+Customer Support,Intercom,Customer Messaging,Support chat and automation,All-in-one customer messaging platform. Live chat bots product tours email campaigns. Premium pricing.,NICE TO HAVE,$39 - $139+/mo
+Customer Support,Canny,Feedback Management,Collect feature requests,Public roadmap and feedback board. Users vote on features upvote requests. Keeps product aligned with users.,SHOULD HAVE,Free 25 users then $50/mo
+Customer Support,Notion,Knowledge Base,Create help documentation,Build internal docs and public help center. Easy editing embed anywhere. Also used for internal wiki.,MUST HAVE,Free - $8/mo
+Marketing - Content & SEO,Google Search Console,SEO Monitoring,Track Google rankings,Free tool from Google to monitor search performance. Shows rankings impressions clicks and indexing issues. Required for SEO.,MUST HAVE,Free
+Marketing - Content & SEO,SurferSEO,SEO Content Optimization,Optimize content for rankings,Content editor with real-time SEO scoring. Keyword research competitor analysis SERP analyzer. Data-driven content creation.,SHOULD HAVE,$19 - $219/mo
+Marketing - Content & SEO,Ubersuggest,Keyword Research,Find keywords to target,Affordable SEO tool for keyword ideas. Competitor analysis backlink data domain overview. Budget alternative to Ahrefs.,SHOULD HAVE,$12 - $40/mo
+Marketing - Content & SEO,Ahrefs,Advanced SEO,Comprehensive SEO toolkit,Industry-leading SEO tool. Backlink analysis keyword research competitor tracking rank monitoring. Expensive but powerful.,NICE TO HAVE,$99 - $999/mo
+Marketing - Content & SEO,Semrush,SEO Platform,All-in-one marketing toolkit,Competitor research SEO audit content marketing PPC analysis. Alternative to Ahrefs.,ALTERNATIVE,$120 - $450+/mo
+Marketing - Content & SEO,Buffer,Social Media Scheduling,Schedule social posts,Schedule posts to Twitter LinkedIn Facebook Instagram. Analytics and engagement tracking. Team collaboration.,SHOULD HAVE,Free 3 channels then $6/mo
+Marketing - Content & SEO,Hootsuite,Social Media Management,Manage multiple social accounts,Enterprise social media management. Schedule monitor engage across platforms. More features than Buffer.,ALTERNATIVE,$49 - $739/mo
+Marketing - Content & SEO,Canva,Graphic Design,Create marketing graphics,Easy design tool for social posts thumbnails infographics. Thousands of templates drag-and-drop editor. Brand kit for consistency.,SHOULD HAVE,Free - $15/mo
+Marketing - Content & SEO,Beehiiv,Newsletter Platform,Build email newsletter,Modern newsletter platform with growth tools. Referral program monetization ad network. Great for content marketing.,NICE TO HAVE,Free 2.5k subs then $49/mo
+Marketing - Content & SEO,HARO,PR & Media,Get press coverage,Help A Reporter Out. Pitch journalists seeking sources. Free PR and backlink opportunities.,NICE TO HAVE,Free
+Marketing - Content & SEO,Bitly,Link Shortener,Create branded short links,Short links with click tracking. UTM parameters custom domains. Track campaign performance.,NICE TO HAVE,Free - $25+/mo
+Marketing - Content & SEO,UTM.io,UTM Management,Build and manage UTM links,Standardize UTM parameters across team. Templates governance tracking. Keeps campaigns organized.,NICE TO HAVE,Free - $29+/mo
+Marketing - Paid Ads,Google Ads,Search Advertising,Run Google search ads,Pay-per-click ads on Google search results. Target keywords intent-based advertising. Variable budget.,LATER,$500 - $2000/mo budget
+Marketing - Paid Ads,Meta Ads,Social Advertising,Run Facebook/Instagram ads,Paid ads on Facebook and Instagram. Target by demographics interests behaviors. Visual ad formats.,LATER,$500 - $1500/mo budget
+Marketing - Paid Ads,LinkedIn Ads,B2B Advertising,Target professionals,B2B advertising on LinkedIn. Target by job title company industry. Higher CPC but quality leads.,LATER,$500 - $2000/mo budget
+Marketing - Paid Ads,Reddit Ads,Community Advertising,Target Reddit communities,Advertise in relevant subreddits like r/personalfinance. Community-focused targeting conversational format.,LATER,$300 - $1000/mo budget
+Marketing - Paid Ads,AdCreative.ai,Ad Creative Generation,Generate ad creatives with AI,AI-powered ad creative generator. Creates multiple variations tests performance. Saves design time.,LATER,$29 - $149/mo
+Marketing - Paid Ads,Hyros,Ad Attribution,Track ad ROI accurately,Advanced ad tracking and attribution. Shows which ads drive actual revenue. Accurate multi-touch attribution.,LATER,$199 - $500+/mo
+Sales - CRM,HubSpot CRM,Customer Relationship Management,Manage leads and contacts,Free CRM to track leads deals contacts. Email tracking meeting scheduling pipeline management. Generous free tier.,SHOULD HAVE,Free - $20/mo
+Sales - CRM,Pipedrive,Sales CRM,Visual sales pipelines,Sales-focused CRM with visual pipelines. Deal forecasting email sync activity tracking. Great for founder-led sales.,ALTERNATIVE,$15 - $59/user/mo
+Sales - CRM,Attio,Modern CRM,Next-gen CRM platform,Modern flexible CRM. Customizable data model API-first design. Better for tech companies.,ALTERNATIVE,$29 - $119/user/mo
+Sales - Outbound,Apollo.io,Lead Generation,Find leads and emails,Database of 250M+ contacts. Email finder lead generation cold outreach sequences. Chrome extension included.,IF B2B,$49 - $149/mo
+Sales - Outbound,Smartlead,Cold Email Automation,Scale cold email outreach,Unlimited email accounts and warmup. Advanced deliverability features AI personalization. High volume cold email.,IF B2B,$39 - $94/mo
+Sales - Outbound,Lemlist,Cold Email Platform,Personalized outreach campaigns,Cold email with personalization at scale. Multichannel sequences email warmup. Better UI than Smartlead.,IF B2B,$59 - $129/mo
+Sales - Outbound,Instantly.ai,Cold Email Alternative,AI-powered cold email,Unlimited email accounts built-in warmup. AI-powered personalization deliverability optimization.,IF B2B,$37 - $97/mo
+Sales - Outbound,LinkedIn Sales Navigator,LinkedIn Prospecting,Find B2B decision makers,Premium LinkedIn tool for finding leads. Advanced search filters InMail credits lead recommendations. For B2B sales.,IF B2B,$99/mo
+Sales - Outbound,NeverBounce,Email Verification,Validate email addresses,Reduce bounce rates on cold email lists. API and bulk cleaning. Improve deliverability.,IF B2B,~$0.006 per email
+Sales - Outbound,Mailflow,Email Warmup,Improve cold email deliverability,Automated email warmup to improve inbox placement. Warmup network reputation building.,IF B2B,$12 - $39/mo
+Sales - Conversion,Calendly,Meeting Scheduling,Schedule demos and calls,Share booking link for meetings. Syncs with Google Calendar automated reminders. Reduces back-and-forth.,IF SALES CALLS,Free - $10/mo
+Sales - Conversion,Cal.com,Open Source Scheduling,Alternative meeting scheduler,Open-source Calendly alternative. Self-hostable customizable white-label option. Free tier available.,IF SALES CALLS,Free - $12/mo
+Sales - Conversion,SavvyCal,Premium Scheduling,Better scheduling experience,More personalized scheduling links. Overlay calendars polling availability. Premium UX.,ALTERNATIVE,$12 - $20/mo
+Sales - Conversion,Typeform,Lead Capture Forms,Beautiful interactive forms,Engaging form builder for surveys and lead capture. One question at a time high completion rates. Logic jumps.,NICE TO HAVE,Free 10 responses then $25/mo
+Sales - Conversion,Tally,Free Form Builder,Unlimited forms for free,100% free form builder no limits. Similar to Typeform clean interface. Notion-style editor.,SHOULD HAVE,Free forever
+Email Marketing,Loops,SaaS Email Marketing,Product email campaigns,Built specifically for SaaS companies. Onboarding sequences event-triggered emails. Clean API.,SHOULD HAVE,$35/mo
+Email Marketing,Resend,Transactional Email,Automated system emails,Modern email API for transactional emails. React templates. For password resets alerts notifications.,MUST HAVE,Free 3k/mo then $20/mo
+Email Marketing,MailerLite,Email Marketing,Email campaigns and automation,Email marketing with automation and landing pages. Drag-and-drop editor subscriber management. Good free tier.,ALTERNATIVE,Free 1k subs then $9/mo
+Email Marketing,ConvertKit,Creator Email Marketing,Email for creators,Email marketing built for creators. Landing pages forms automations. Good for content creators.,ALTERNATIVE,$9 - $29+/mo
+Email Marketing,ActiveCampaign,Marketing Automation,Advanced email automation,Email marketing plus CRM automation. Lead scoring behavior tracking advanced segmentation. Powerful automation.,LATER,$29 - $99+/mo
+Email Marketing,Customer.io,Behavioral Email,Advanced email automation,Behavior-triggered email campaigns. Segmentation workflows event tracking. More advanced than Loops.,LATER,$150 - $1000+/mo
+Email Marketing,Beehiiv,Newsletter,Content newsletter distribution,Newsletter platform with growth tools. Referral system monetization ad network. For content marketing.,NICE TO HAVE,Free then $49/mo
+Email Marketing,SendGrid,Email API,Transactional and marketing email,Battle-tested scalable email API. Transactional and marketing emails. Alternative to Resend.,ALTERNATIVE,Free - $15/mo + usage
+SMS & Notifications,ClickSend,SMS & Messaging,Send SMS messages,SMS API for alerts and notifications. Also supports voice email fax. Global coverage pay-as-you-go.,IF SMS NEEDED,$0.035 - $0.08 per SMS
+SMS & Notifications,Twilio,Programmable Communications,SMS voice and video,Industry standard for SMS and voice. Programmable communications API global reach. Verify phone numbers.,IF SMS NEEDED,$0.0079 per SMS
+SMS & Notifications,OneSignal,Push Notifications,Web and mobile push,Free unlimited push notifications. Web push mobile push in-app messaging. Segmentation and automation.,NICE TO HAVE,Free - $99/mo
+Development,VS Code,Code Editor,Write code efficiently,Free open-source code editor from Microsoft. Extensions marketplace integrated terminal Git support. Industry standard.,MUST HAVE,Free
+Development,GitHub Copilot,AI Code Completion,Code faster with AI,AI pair programmer autocompletes code. Suggests functions explains code. 10x productivity boost.,SHOULD HAVE,$10/mo
+Development,Cursor,AI Code Editor,VS Code fork with AI,VS Code with built-in AI features. Better AI integration than Copilot codebase chat. Premium option.,NICE TO HAVE,$20/mo
+Development,GitHub,Version Control,Host code and collaborate,Git repository hosting. Version control CI/CD with Actions issue tracking. Free unlimited repos.,MUST HAVE,Free - $4/user/mo
+Development,GitHub Actions,CI/CD,Automate deployments and tasks,Built-in CI/CD for GitHub repos. Run tests deploy code scheduled jobs. Generous free tier.,MUST HAVE,Free 2000 min/mo
+Development,GitHub Packages,Container Registry,Store Docker images,Container and package registry. Store Docker images npm packages. Next to your code.,SHOULD HAVE,Included with GitHub
+Development,Linear,Project Management,Track tasks and sprints,Best-in-class issue tracker for product teams. Keyboard shortcuts clean UI roadmaps. Fast and beautiful.,MUST HAVE,Free - $8/user/mo
+Development,Jira,Project Management Alternative,Enterprise project tracking,Enterprise project management. Scrum Kanban roadmaps. More complex than Linear.,ALTERNATIVE,$7.75 - $15.25/user/mo
+Development,Notion,Documentation,Internal wiki and docs,All-in-one workspace for docs wikis databases. Collaborative flexible customizable. Free tier generous.,MUST HAVE,Free - $8/mo
+Development,Figma,Design Tool,Design app interfaces,Collaborative design tool for UI/UX. Prototyping design systems component libraries. Free for personal use.,MUST HAVE,Free - $12/user/mo
+Development,Whimsical,Diagramming & Wireframes,Create flowcharts and mockups,Visual workspace for flowcharts wireframes mind maps. Faster than Figma for early-stage ideation. Clean simple.,SHOULD HAVE,Free - $10/mo
+Development,Excalidraw,Quick Diagrams,Hand-drawn style mockups,Quick sketchy diagrams and mockups. Hand-drawn aesthetic fast and free. Great for ideation.,NICE TO HAVE,Free
+Development,Miro,Visual Collaboration,Whiteboard for teams,Online whiteboard for collaboration. Brainstorming workshops diagrams. Good for remote teams.,ALTERNATIVE,Free - $8/user/mo
+Development,shadcn/ui,UI Component Library,Pre-built React components,Copy-paste component library built on Radix and Tailwind. Fully customizable you own the code. Free.,MUST HAVE,Free
+Development,TailwindCSS,CSS Framework,Style your app,Utility-first CSS framework. Rapid UI development responsive design. Industry standard for modern web.,MUST HAVE,Free
+Development,Lucide Icons,Icon Library,Icons for app UI,Beautiful consistent icon set. React components tree-shakeable. Successor to Feather Icons.,MUST HAVE,Free
+Development,Heroicons,Icon Library Alternative,Tailwind icon set,Icon set from Tailwind creators. SVG icons React components. Alternative to Lucide.,ALTERNATIVE,Free
+Development,Docker,Containerization,Standardize development environments,Package apps in containers. Consistent environments locally and in production. Docker Compose for multi-service.,SHOULD HAVE,Free
+Development,Storybook,Component Development,Build UI components in isolation,Develop and test UI components independently. Documentation visual testing. Great for design systems.,NICE TO HAVE,Free
+Testing & QA,Vitest,Unit Testing,Test individual functions,Modern fast unit testing framework. Compatible with Jest faster. For testing business logic.,SHOULD HAVE,Free
+Testing & QA,Jest,Unit Testing Alternative,JavaScript testing framework,Popular JavaScript testing framework. Snapshot testing mocking. Alternative to Vitest.,ALTERNATIVE,Free
+Testing & QA,Playwright,End-to-End Testing,Test full user flows,Automated browser testing. Test complete user journeys cross-browser. More reliable than Cypress.,SHOULD HAVE,Free
+Testing & QA,Cypress,E2E Testing Alternative,Browser testing framework,Popular E2E testing framework. Time-travel debugging real-time reload. Alternative to Playwright.,ALTERNATIVE,Free
+Testing & QA,Checkly,Monitoring Tests,Run tests in production,Run Playwright tests as monitors. E2E monitoring in production alert on failures. Proactive testing.,NICE TO HAVE,$7 - $299/mo
+Testing & QA,Chromatic,Visual Testing,Catch UI bugs,Visual regression testing for components. Catches unintended visual changes. Integrates with Storybook.,NICE TO HAVE,Free 5k snapshots then $149/mo
+Testing & QA,k6,Load Testing,Performance testing,Open-source load testing tool. Test performance at scale. Scripting in JavaScript.,NICE TO HAVE,Free - $49+/mo cloud
+Testing & QA,Great Expectations,Data Quality,Validate data pipelines,Data quality testing framework. Validate datasets and ETL outputs. Add checks to data pipelines.,NICE TO HAVE,Free
+Automation,Make,Workflow Automation,Connect apps together,Visual automation platform formerly Integromat. More powerful and cheaper than Zapier. Unlimited workflows.,SHOULD HAVE,Free 1k ops then $9/mo
+Automation,Zapier,No-Code Automation,Automate repetitive tasks,Connect apps and automate workflows. Easier than Make but more expensive. Good for non-technical.,ALTERNATIVE,Free 100 tasks then $20/mo
+Automation,n8n,Self-Hosted Automation,Open-source workflow automation,Self-hostable alternative to Zapier. More complex but more powerful and free. Technical setup required.,ALTERNATIVE,Free self-hosted
+Automation,Inngest,Background Jobs,Serverless job scheduling,Durable serverless functions. Background jobs queues workflows. Event-driven architecture.,NICE TO HAVE,Free - $20+/mo
+Automation,Temporal,Workflow Engine,Reliable distributed workflows,Durable workflow execution engine. Retries error handling distributed systems. For complex workflows.,LATER,$25 - $500+/mo
+Team Collaboration,Slack,Team Chat,Internal communication,Team messaging with channels and DMs. Integrations with tools searchable history. Industry standard.,SHOULD HAVE,Free 10k messages then $7.25/user/mo
+Team Collaboration,Discord,Community Chat,Alternative to Slack,Free unlimited message history. Better for communities voice channels. Good for small teams.,ALTERNATIVE,Free
+Team Collaboration,Google Workspace,Business Email & Productivity,Professional email and apps,Business email at your domain. Includes Drive Calendar Docs Sheets Meet. Required for professional image.,MUST HAVE,$6/user/mo
+Team Collaboration,Microsoft 365,Productivity Suite Alternative,Email and Office apps,Alternative to Google Workspace. Outlook Excel Word Teams. Better Office app compatibility.,ALTERNATIVE,$6 - $22/user/mo
+Team Collaboration,Loom,Screen Recording,Async video communication,Record screen and camera for async updates. Faster than meetings great for demos. Free tier generous.,SHOULD HAVE,Free 25 videos then $8/mo
+Team Collaboration,Zoom,Video Conferencing,Team meetings and calls,Industry standard video calls. Screen sharing recording breakout rooms. 40 min limit on free.,NICE TO HAVE,Free - $15/mo
+Team Collaboration,Google Meet,Video Calls Alternative,Simple video conferencing,Included with Google Workspace. Simple reliable video calls. No time limit with Workspace.,ALTERNATIVE,Included with Workspace
+Team Collaboration,Around,Modern Video Calls,Better video call experience,Modern video call app. Better UI auto-framing noise cancellation. Premium experience.,ALTERNATIVE,$8 - $16/user/mo
+Team Collaboration,Cal.com,Meeting Scheduling,Schedule meetings easily,Open-source booking calendar. Self-hostable customizable. Free tier available.,NICE TO HAVE,Free - $12/mo
+Team Collaboration,Bitwarden,Password Manager,Secure password sharing,Open-source password manager. Team vaults secure sharing. More affordable than 1Password.,SHOULD HAVE,Free - $3/user/mo
+Team Collaboration,1Password,Password Manager Alternative,Team password management,Popular password manager. Better UX than Bitwarden. Travel mode secrets automation.,ALTERNATIVE,$20/user/mo
+Design & Branding,Figma,Design,Design app screens,Collaborative design tool for UI/UX. Prototyping design systems component libraries.,MUST HAVE,Free - $12/mo
+Design & Branding,Canva,Graphics,Create marketing assets,Easy graphic design for non-designers. Templates brand kit social graphics.,SHOULD HAVE,Free - $15/mo
+Design & Branding,Whimsical,Wireframes,Early-stage mockups,Quick wireframes and flows. Faster than Figma for ideation.,SHOULD HAVE,Free - $10/mo
+Design & Branding,Looka,Logo Design,AI-generated logos,AI logo maker with brand kit. One-time purchase instant results. Good for bootstrapped startups.,NICE TO HAVE,$20 one-time
+Design & Branding,Unsplash,Stock Photos,Free photography,Free high-quality stock photos. Commercial use allowed no attribution required. Massive library.,MUST HAVE,Free
+Design & Branding,Pexels,Stock Photos,Free photos and videos,Alternative to Unsplash. Free stock photos and videos. No attribution required.,MUST HAVE,Free
+Design & Branding,Adobe Creative Cloud,Professional Design,Industry-standard design tools,Photoshop Illustrator InDesign. Professional design suite. Expensive overkill for most startups.,LATER,$55 - $85/mo
+Compliance & Legal,Termly,Legal Policies,Generate privacy policy and terms,Auto-generate privacy policy terms cookie policy. GDPR and CCPA compliant. Auto-updates with law changes.,MUST HAVE,Free templates - $10/mo
+Compliance & Legal,Osano,Cookie Consent,Cookie consent banner,Cookie consent management for GDPR. Free tier available customizable banner. Required for EU users.,MUST HAVE,Free - $190/mo
+Compliance & Legal,CookieYes,Cookie Consent Alternative,GDPR cookie management,Alternative to Osano. Cookie consent banner GDPR compliance. Easy setup.,ALTERNATIVE,Free - $10+/mo
+Compliance & Legal,OneTrust,Enterprise Consent,Advanced consent management,Enterprise privacy and consent management. Data governance complete compliance. Overkill early stage.,FUTURE,$$$
+Compliance & Legal,Stripe Atlas,Business Incorporation,Incorporate your company,Incorporate Delaware C-corp or LLC. EIN tax setup business banking. One-time service.,IF INCORPORATING,$500 one-time
+Compliance & Legal,Clerky,Startup Legal,Legal docs for startups,Electronic signature for legal documents. Incorporation fundraising documents. Alternative to lawyers.,ALTERNATIVE,$599/yr + docs
+Compliance & Legal,Vanta,SOC 2 Compliance,Automate compliance,SOC 2 compliance automation. Continuous monitoring evidence collection. For B2B enterprise sales.,FUTURE,$3600+/yr
+Compliance & Legal,Drata,SOC 2 Alternative,Security compliance automation,Alternative to Vanta. SOC 2 ISO 27001 GDPR. Automated compliance.,FUTURE,$3000+/yr
+Financial Operations,Wave,Accounting,Free accounting software,Completely free accounting and invoicing. Receipt scanning expense tracking. No monthly fee.,SHOULD HAVE,Free
+Financial Operations,QuickBooks,Accounting,Professional accounting,Industry standard accounting software. More features than Wave. Integrations with banks.,ALTERNATIVE,$30 - $200/mo
+Financial Operations,Xero,Accounting Alternative,Cloud accounting,Beautiful cloud accounting. Multi-currency inventory tracking. Popular internationally.,ALTERNATIVE,$13 - $70/mo
+Financial Operations,Mercury,Business Banking,Startup-friendly bank,Bank account built for startups. No fees modern API integrations. FDIC insured.,SHOULD HAVE,Free
+Financial Operations,Brex,Business Banking Alternative,Financial platform for startups,Corporate cards banking expense management. Rewards program. For VC-backed startups.,ALTERNATIVE,Free
+Financial Operations,Ramp,Spend Management,Corporate cards and expenses,Corporate cards with spend controls. Expense management automation cashback. Fast-growing platform.,ALTERNATIVE,Free
+Financial Operations,Stripe,Payment Processing,Process payments,Process credit cards subscriptions and one-time payments. Handles billing invoicing tax. Industry standard.,MUST HAVE,2.9% + $0.30
+Financial Operations,Expensify,Expense Tracking,Track business expenses,Receipt scanning expense reports reimbursements. Integrates with accounting software.,NICE TO HAVE,Free personal - $5/user/mo
+Financial Operations,Carta,Cap Table,Equity management,Manage cap table equity grants 409A valuations. Free for early stage. For fundraising.,IF FUNDRAISING,Free early stage then $2500+/yr
+Financial Operations,Pulley,Cap Table Alternative,Modern cap table management,Alternative to Carta. Modern UI easier to use. Equity management scenario modeling.,IF FUNDRAISING,$200 - $2000+/yr
+Financial Operations,Gusto,Payroll,Run payroll,Payroll tax filing benefits administration. When you hire employees. Easy to use.,WHEN HIRING,$40/mo + $6/person
+Financial Operations,Rippling,HR & Payroll,All-in-one HR platform,Payroll benefits IT management. Device management app access. Comprehensive platform.,WHEN HIRING,$8/user/mo + payroll
+Data & Storage,Supabase,Database,PostgreSQL database,Open-source Firebase alternative. Postgres with instant APIs. Auth storage realtime.,MUST HAVE,Free - $25/mo
+Data & Storage,Railway,Database Hosting,PostgreSQL and Redis,Deploy databases easily. Automatic backups simple config. Good for additional services.,SHOULD HAVE,$5+/mo
+Data & Storage,PlanetScale,MySQL Database,Serverless MySQL,Serverless MySQL database. Branching and schema migrations. Good alternative to Postgres.,ALTERNATIVE,Free - $39/mo
+Data & Storage,Neon,Serverless Postgres,Serverless PostgreSQL,Serverless Postgres with branching. Auto-scaling instant provisioning. Modern Postgres hosting.,ALTERNATIVE,$19 - $69+/mo
+Data & Storage,Upstash,Serverless Redis,Redis for caching,Serverless Redis database. Per-request pricing rate limiting sessions. Great for edge functions.,NICE TO HAVE,Free 10k requests - $10/mo
+Data & Storage,Cloudflare R2,Object Storage,Store files cheaply,S3-compatible object storage. No egress fees cheaper than S3. For file uploads.,NICE TO HAVE,$0.015/GB/mo
+Data & Storage,AWS S3,Object Storage,Cloud file storage,Industry standard object storage. Store user uploads documents. Pay for what you use.,ALTERNATIVE,$0.023/GB/mo
+Data & Storage,Supabase Storage,File Storage,Object storage integrated,S3-like storage integrated with Supabase. Simple permissions auto CDN. Included with database.,SHOULD HAVE,Included/usage
+Data & Storage,Backblaze B2,Backup Storage,Cheap backup storage,S3-compatible backup storage. Cheaper than AWS for backups. Good for redundancy.,NICE TO HAVE,$5/TB/mo
+Data & Storage,ClickHouse,Analytics Database,Fast analytics database,Columnar database for analytics. Very fast for large datasets. For heavy analytical workloads.,LATER,$50+/mo
+Data & Storage,BigQuery,Data Warehouse,Serverless data warehouse,Google's serverless data warehouse. SQL analytics on massive datasets. Free tier generous.,LATER,Free 1TB queries/mo
+Advanced Features,OpenAI API,AI Language Models,Add AI features,GPT-4 and GPT-3.5 API access. For AI insights chatbots recommendations. Usage-based pricing.,IF AI FEATURES,$0.002 - $0.06 per 1k tokens
+Advanced Features,Groq,Fast AI Inference,Ultra-fast LLM inference,Extremely fast AI inference. Much faster than OpenAI cheaper. Free tier available.,IF AI FEATURES,Free tier then usage-based
+Advanced Features,Anthropic Claude,AI Language Models,Advanced AI capabilities,Claude 3 API for complex reasoning. Better for long context analysis. Alternative to OpenAI.,IF AI FEATURES,$0.003 - $0.015 per 1k tokens
+Advanced Features,Together.ai,AI Model Hosting,Open-source AI models,Host open-source LLMs. Cheaper than OpenAI for high volume. Llama Mistral etc.,IF AI FEATURES,Usage-based
+Advanced Features,Replicate,AI Model API,Run AI models via API,Run any AI model via API. Image generation voice cloning video. Simple pay-per-use.,IF AI FEATURES,Usage-based
+Advanced Features,Supabase pgvector,Vector Database,Store AI embeddings,PostgreSQL extension for vector search. Semantic search RAG applications. Already included with Supabase.,IF AI FEATURES,Included in Supabase
+Advanced Features,Pinecone,Vector Database,Dedicated vector search,Purpose-built vector database. Fast similarity search for AI. More powerful than pgvector.,LATER,$70 - $500+/mo
+Advanced Features,Weaviate,Vector Database Alternative,Open-source vector DB,Open-source vector database. Self-hostable or cloud. Alternative to Pinecone.,ALTERNATIVE,Free - $25+/mo
+Advanced Features,LaunchDarkly,Feature Flags,Gradual feature rollouts,Feature flag management. A/B tests kill switches gradual rollouts. Enterprise-grade.,LATER,$75 - $500+/mo
+Advanced Features,DevCycle,Feature Flags Alternative,Feature management platform,Alternative to LaunchDarkly. Feature flags experimentation. More affordable.,ALTERNATIVE,Free - $60+/mo
+Advanced Features,Split,Feature Flags & Experimentation,Feature delivery platform,Feature flags plus experimentation. Impact analysis statistical engine. Enterprise platform.,LATER,$50 - $1000+/mo
+Advanced Features,Segment,Customer Data Platform,Unified customer data,Single API to send data to all tools. Customer data infrastructure event tracking. For scale.,LATER,$120 - $1000+/mo
+Backup & Recovery,Supabase Backups,Database Backup,Automated database backups,Point-in-time recovery for database. Daily automated backups. Included in paid plans.,MUST HAVE,Included in Supabase Pro
+Backup & Recovery,GitHub,Code Backup,Version control backup,Code automatically backed up in GitHub. Version history disaster recovery. Free unlimited.,MUST HAVE,Free
+Backup & Recovery,Backblaze B2,File Backup,Cheap cloud backup,S3-compatible backup storage. Cheaper than AWS. For redundant backups.,NICE TO HAVE,$5/TB/mo
+Backup & Recovery,Cronitor,Backup Monitoring,Monitor backup jobs,Monitor cron jobs and scheduled tasks. Alert if backup fails. Uptime for jobs.,NICE TO HAVE,$10 - $50/mo
+Backup & Recovery,Odowna,Cron Monitoring Alternative,Monitor scheduled tasks,Alternative to Cronitor. Monitor cron jobs scheduled tasks. Alert on failures.,ALTERNATIVE,$10/mo
+User Onboarding,PostHog,Product Tours,In-app guidance,Feature flags surveys product tours session recordings. All-in-one product platform.,SHOULD HAVE,Included in PostHog
+User Onboarding,Appcues,User Onboarding,Guided product tours,No-code product tours and onboarding. Checklists tooltips modals. Premium pricing.,LATER,$249 - $879+/mo
+User Onboarding,Dopt,Modern Onboarding,Developer-first onboarding,Headless onboarding components. React SDK flexible. Better dev experience.,NICE TO HAVE,$99 - $299/mo
+User Onboarding,Pendo,Product Experience,Product analytics and guidance,Product analytics plus in-app guidance. Feature adoption product tours. Enterprise-focused.,LATER,$1000+/mo
+User Onboarding,Userflow,Onboarding Tours,Guided tours and tooltips,No-code onboarding builder. Improve activation and feature discovery. Clean modern UI.,NICE TO HAVE,$50 - $200+/mo
+Feedback & Research,Canny,Feature Requests,User feedback board,Public roadmap and feature voting. User feedback feature requests changelog. Keeps product aligned.,SHOULD HAVE,Free 25 users - $50/mo
+Feedback & Research,ProductBoard,Product Management,Advanced roadmap planning,Product management platform. Prioritization frameworks customer feedback integration. Enterprise PM tool.,LATER,$25 - $119/user/mo
+Feedback & Research,Tally,Surveys,Free unlimited surveys,Beautiful forms and surveys. 100% free no limits. Notion-style editor.,SHOULD HAVE,Free forever
+Feedback & Research,Typeform,Interactive Forms,Engaging form experience,One question at a time conversational forms. Logic jumps custom branding.,NICE TO HAVE,Free 10 responses - $25/mo
+Feedback & Research,SurveyMonkey,Survey Platform,Online surveys,Popular survey platform. Templates question bank analysis. Enterprise features.,ALTERNATIVE,$25 - $100+/mo
+Feedback & Research,Survicate,NPS & Feedback,In-product surveys,NPS CSAT and micro-surveys. Web widgets email targeting. Collect feedback continuously.,NICE TO HAVE,Free - $60+/mo
+Feedback & Research,Hotjar,Heatmaps,Visual user behavior,Heatmaps session recordings user surveys. See where users click and scroll. Visual analytics.,NICE TO HAVE,Free 35 sessions - $32/mo
+Feedback & Research,Maze,User Testing,Remote user testing,Rapid user testing and research. Prototype testing surveys card sorting. Product research.,LATER,$99 - $299/mo
+Feedback & Research,UserTesting,User Research,Professional user testing,Pay users to test your product. Video recordings insights. Professional research.,LATER,$50+/test
+Content & Docs,Notion,Documentation,Create help docs,Docs wiki knowledge base. Collaborative flexible. For internal and external docs.,MUST HAVE,Free - $8/mo
+Content & Docs,Mintlify,Developer Docs,Beautiful API documentation,Modern documentation platform. MDX support API references analytics. Premium design.,LATER,$150 - $500/mo
+Content & Docs,GitBook,Documentation,Collaborative documentation,Documentation platform for teams. Version control public/private docs. Clean design.,ALTERNATIVE,Free - $6.70/user/mo
+Content & Docs,Docusaurus,Documentation Site,Versioned developer docs,Open-source docs framework. Versioning i18n search. Built on React.,NICE TO HAVE,Free
+Content & Docs,ReadMe,API Documentation,Interactive API docs,API documentation with interactive examples. Guides tutorials metrics. Developer experience.,LATER,$99 - $700+/mo
+Content & Docs,Scalar,API Documentation,Beautiful API docs,Free beautiful API documentation. OpenAPI/Swagger support modern design. Better than Swagger UI.,SHOULD HAVE,Free
+Content & Docs,Algolia,Documentation Search,Fast on-site search,Hosted search for docs and blog. Instantsearch widgets fast results. Free tier available.,NICE TO HAVE,Free - $1000+/mo
+Referrals & Growth,ReferralCandy,Referral Program,Customer referral system,Automated referral program. Reward customers for referrals. Track and manage.,LATER,$59 - $299/mo
+Referrals & Growth,Rewardful,Affiliate Program,Affiliate and partner program,Stripe-native affiliate software. Track and pay affiliates. Integrates with Stripe.,LATER,$49 - $249/mo
+Referrals & Growth,PartnerStack,Partner Ecosystem,Manage partnerships,Partner relationship management. Reseller programs co-marketing tracking. For partner-led growth.,LATER,$500+/mo
+Video & Media,YouTube,Video Hosting,Free public video hosting,Free unlimited video hosting. Public content tutorials demos. SEO benefits.,SHOULD HAVE,Free
+Video & Media,Bunny.net,Video CDN,Fast private video delivery,Cheap fast video CDN. For in-app videos tutorials. Better than YouTube for private content.,NICE TO HAVE,$1/TB
+Video & Media,Vimeo,Video Platform,Professional video hosting,High-quality video hosting. Privacy controls customization. More professional than YouTube.,ALTERNATIVE,$7 - $75/mo
+Video & Media,Wistia,Video Marketing,Video hosting with analytics,Video hosting with marketing tools. Detailed analytics lead generation email capture. Premium pricing.,LATER,$19 - $99+/mo
+Video & Media,Mux,Video Infrastructure,Developer video platform,Video API for developers. Encoding streaming analytics. Build custom video experiences.,LATER,$10+/mo
+Video & Media,imgproxy,Image Optimization,Resize and optimize images,Fast image optimization and CDN. Auto formats responsive images. Self-hostable.,SHOULD HAVE,Free OSS or hosted
+Changelog & Updates,Beamer,Changelog,Announce new features,In-app changelog widget. Push notifications for updates. Keep users informed of changes.,NICE TO HAVE,Free 100 users - $49/mo
+Changelog & Updates,Canny,Changelog,Combined with feedback,Changelog combined with feedback board. Unified platform roadmap feedback updates.,SHOULD HAVE,Included in Canny
+Changelog & Updates,Noticeable,Changelog Platform,Professional changelog,Dedicated changelog platform. Email notifications embeddable widget. More features than Beamer.,ALTERNATIVE,$15 - $49/mo
+Infrastructure Monitoring,Datadog,Full Observability,APM logs metrics,Complete monitoring platform. APM log aggregation infrastructure metrics tracing. Enterprise pricing.,FUTURE,$15 - $100+/user/mo
+Infrastructure Monitoring,New Relic,APM,Application performance monitoring,Application performance monitoring. Traces errors infrastructure. Alternative to Datadog.,FUTURE,Free - $100+/user/mo
+Infrastructure Monitoring,Grafana,Metrics Visualization,Dashboard and visualization,Open-source metrics dashboards. Visualize Prometheus data custom queries. Self-hostable.,NICE TO HAVE,Free - $29+/user/mo
+Infrastructure Monitoring,Prometheus,Metrics Collection,Time-series database,Open-source metrics collection. Time-series database alerting. Pairs with Grafana.,NICE TO HAVE,Free OSS
+Infrastructure Monitoring,OpenTelemetry,Observability Standard,Unified telemetry export,Vendor-neutral telemetry framework. Traces metrics logs. Foundation for observability.,SHOULD HAVE,Free
+Status Page,Statuspage,Status Communication,Public status page,Communicate uptime and incidents. Public status page incident management. Atlassian product.,NICE TO HAVE,$29 - $99/mo
+Status Page,Instatus,Status Page,Beautiful status page,Modern status page. Cheaper than Statuspage clean design. Status monitoring.,ALTERNATIVE,$8 - $29/mo
+Status Page,Better Stack,Status & Incidents,Status page and on-call,Status page plus on-call management. Incident response uptime monitoring. All-in-one.,ALTERNATIVE,Free - $20+/mo
+Load Testing,k6,Performance Testing,Load test application,Open-source load testing. Test performance at scale JavaScript scripting. Run locally or cloud.,NICE TO HAVE,Free - $49+/mo cloud
+Load Testing,Artillery,Load Testing Alternative,Modern load testing,Modern load testing toolkit. Scenarios plugins distributed testing. Alternative to k6.,ALTERNATIVE,Free OSS
+Load Testing,Locust,Python Load Testing,Load testing in Python,Load testing framework in Python. Distributed testing web UI. Developer-friendly.,ALTERNATIVE,Free OSS
+Directories & Reviews,G2,B2B Reviews,SaaS review platform,B2B software review site. Collect reviews category presence lead gen. Trust building.,NICE TO HAVE,Free + paid promos
+Directories & Reviews,Capterra,Software Directory,Software review and discovery,Software directory and reviews. Lead generation discovery. Pay-per-lead optional.,NICE TO HAVE,Free + PPL optional
+Directories & Reviews,Product Hunt,Launch Platform,Product launches and discovery,Launch products get early feedback. Community upvotes discussions. Good for awareness.,SHOULD HAVE,Free
+Directories & Reviews,Trustpilot,Customer Reviews,Public review platform,Consumer review platform. Build trust with reviews. Important for consumer trust.,NICE TO HAVE,Free - $300+/mo
+Internal Tools,Streamlit,Internal Apps,Build Python dashboards,Build quick internal dashboards and tools. Fast Python UI for operations reporting.,NICE TO HAVE,Free
+Internal Tools,Retool,Internal Tools,Build admin panels,Build internal tools quickly. Admin panels dashboards workflows. Drag-and-drop builder.,LATER,$10 - $50/user/mo
+Internal Tools,Airplane,Workflow Automation,Internal workflows and tasks,Build internal workflows. Tasks views schedules. Developer-first internal tools.,LATER,Free - $20+/user/mo
+Internal Tools,Budibase,Low-Code Platform,Build internal apps,Open-source low-code platform. Build CRUD apps admin panels. Self-hostable.,ALTERNATIVE,Free - $10+/user/mo
+Infrastructure as Code,Terraform,IaC,Codify infrastructure,Infrastructure as code tool. Provision cloud resources reproducibly. Codify GCP/AWS/Vercel.,NICE TO HAVE,Free OSS
+Infrastructure as Code,Pulumi,IaC Alternative,Modern infrastructure as code,IaC using real programming languages. TypeScript Python Go. Modern alternative to Terraform.,ALTERNATIVE,Free - $75+/user/mo
+Containers,Docker,Containerization,Package applications,Container platform for packaging apps. Consistent environments. Docker Compose for local dev.,SHOULD HAVE,Free
+Containers,Kubernetes,Container Orchestration,Manage containers at scale,Container orchestration at scale. Too complex for early stage. Only when very large scale.,FUTURE,Free OSS + cloud costs
+Jobs & Workers,GCP Cloud Run Jobs,Background Jobs,Serverless background tasks,Run scheduled tasks and ETL. Good for cron jobs reports data syncs. Serverless.,NICE TO HAVE,Pay-per-use
+Jobs & Workers,AWS Lambda,Serverless Functions,Run code without servers,Serverless function execution. Event-driven auto-scaling. Very popular.,ALTERNATIVE,Pay-per-invocation
+Jobs & Workers,Cloudflare Workers,Edge Functions,Run code at the edge,Serverless functions at the edge. Ultra-low latency global distribution. Great for API routes.,NICE TO HAVE,Free - $5+/mo
+Jobs & Workers,Vercel Functions,Serverless Functions,Serverless API routes,Serverless functions integrated with Vercel. Easy deployment auto-scaling. Built into Vercel.,SHOULD HAVE,Included in Vercel
+Community & Launch,Product Hunt,Product Launch,Launch and get feedback,Launch products to tech community. Upvotes comments feedback. Good for initial traction.,SHOULD HAVE,Free
+Community & Launch,Indie Hackers,Founder Community,Connect with founders,Community of indie founders. Share journey get feedback. Build in public.,NICE TO HAVE,Free
+Community & Launch,Reddit,Community Engagement,Engage in communities,Participate in r/personalfinance and related communities. Answer questions share expertise. Organic marketing.,SHOULD HAVE,Free
+Community & Launch,Twitter/X,Social Platform,Build audience and share updates,Share updates engage with fintech community. Build founder brand. Important for SaaS.,SHOULD HAVE,Free
