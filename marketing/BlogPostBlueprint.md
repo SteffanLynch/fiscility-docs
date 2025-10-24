@@ -70,8 +70,10 @@
 * Keep **sentences under 20 words** where possible.
 * Use **short paragraphs (2–4 lines)** for readability.
 * Use **active voice** and **second-person (“you”)** when appropriate.
+* Write at a reading level accessible to 12-year-olds — use simple language, short sentences, and clear explanations. Make content easy and smooth to read and digest.
 * Sprinkle **strategic keywords naturally** into headers and first 100 words.
 * Use **real numbers, metrics, or examples** wherever possible.
+* Stay focused on the main theme or subject — avoid too many tangents or going too deep in the weeds so readers don't forget what they're reading about.
 * End with a **CTA (Call to Action):**
 
   * “Try Fiscility free for 7 days.”
@@ -85,6 +87,7 @@
 * Hide value behind long preambles. Deliver insight **immediately**.
 * Stuff internal links unnaturally.
 * Forget the CTA — every post must connect back to **Fiscility**’s purpose.
+* Use emojis in the body text, headers, or subheaders — keep content professional and clean.
 
 ---
 
@@ -130,6 +133,8 @@ Every blog post should follow this **structure skeleton:**
 | **Title Tag**           | ≤ 60 characters                                            | “How to Automate Your Monthly Financial Reports with Fiscility”                                                    |
 | **Meta Description**    | ≤ 160 characters; use action verbs                         | “Automate your financial reports in minutes. Learn how Fiscility helps you stay financially clear and in control.” |
 | **URL Slug**            | Use lowercase, hyphen-separated, concise                   | `/automated-financial-reports-guide`                                                                               |
+| **Category**            | Select from: Personal Finance Management, Money Mindset, Understanding Your Finances, Financial Planning, Small Business Finance, Fiscility Tips, Product Updates | `personal-finance` or `fiscility-tips`                                                                             |
+| **Content Type**        | Select from: How-To Guide, List Post, Ultimate Guide (Pillar), Comparison, Case Study, News/Update, Opinion/Thought Leadership, Tutorial, Resource/Template | `how-to` or `tutorial`                                                                                             |
 | **Headings**            | Use H1 (once), H2/H3 hierarchy; include keywords naturally | `## Automating Reports in 3 Steps`                                                                                 |
 | **Alt Text for Images** | Descriptive, include context keywords                      | `alt="Example of automated financial report dashboard"`                                                            |
 | **Internal Links**      | 2–3 per post to related content (guides, pricing, demo)    | Link to “/pricing” or “/features/reports”                                                                          |
@@ -226,6 +231,7 @@ Every blog post should follow this **structure skeleton:**
 Before publishing, confirm all of the following:
 
 * [ ] Title and meta description include keywords
+* [ ] Category and content type are assigned
 * [ ] Headings (H2/H3) follow logical structure
 * [ ] Paragraphs < 4 lines each
 * [ ] CTA at end links to Fiscility or relevant landing page

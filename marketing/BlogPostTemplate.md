@@ -4,7 +4,8 @@ description: "Meta description: succinct 140–160 character summary with action
 slug: "your-url-slug"
 date: "YYYY-MM-DD"
 author: "Steffan Lynch"
-category: "Financial Clarity / Automation / Insights / Behavioural Finance"
+content-type: "How-To Guide, List Post, Ultimate Guide (Pillar), Comparison, Case Study, News/Update, Opinion/Thought Leadership, Tutorial, Resource/Template"
+category: "Personal Finance Management, Money Mindset, Understanding Your Finances, Financial Planning, Small Business Finance, Fiscility Tips, Product Updates"
 tags: ["financial clarity", "report automation", "cashflow", "fiscility"]
 image: "/images/blog/featured-image.jpg"
 alt: "Description of the featured image"
