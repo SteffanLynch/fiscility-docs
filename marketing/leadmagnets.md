@@ -241,7 +241,7 @@ magnet_partner_toolkit
 2. **Clarity First.** The user should leave smarter — not just subscribed.  
 3. **Low Friction → High Conversion.** Start with instant downloads, then nurture toward higher involvement (quizzes, demos).  
 4. **Always Tag & Track.** Every magnet must apply a CRM tag so you can measure performance and trigger automation.  
-5. **One Next Step.** Every magnet should lead to *one clear CTA* — “Get a Sample Report” or “Start Free Trial.”  
+5. **One Next Step.** Every magnet should lead to *one clear CTA* — “Get a Sample Report” or “Apply for Membership.”  
 6. **Match Tone to Theme.** Educational → calm and professional. Interactive → playful and modern. Partner → confident and B2B.  
 
 ---
